@@ -1,0 +1,4 @@
+comic
+cores-fundo preto,letras cinza_verde acizentado_azure
+coloquei personagens-surfista prateado_batmam_doutor destino
+Adicinais-estrelas_moorcegos_raios

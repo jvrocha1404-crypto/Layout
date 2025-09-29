@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: black;
+}
+.box1{
+    background-color : #faebd75d;
+    color: rgb(255, 255, 255);
+  padding: 50px;
+    border-radius: 25px;
+  height: 110px;
+  width: 200px;
+  margin-bottom:15px;
+}
+.img1{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+.box2{
+    color:#001e3b;
+    text-align: center;
+
+    
+}
+.boxname{
+    color:#faebd75d ;
+}
