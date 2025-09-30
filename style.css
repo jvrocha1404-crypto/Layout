@@ -1,32 +1,117 @@
-*{
+* {
     box-sizing: border-box;
     margin: 0px;
     padding: 0px;
 }
 
-body{
+body {
     background-color: black;
 }
-.box1{
-    background-color : #faebd75d;
-    color: rgb(255, 255, 255);
-  padding: 50px;
-    border-radius: 25px;
-  height: 110px;
-  width: 200px;
-  margin-bottom:15px;
-}
-.img1{
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-}
-.box2{
-    color:#001e3b;
-    text-align: center;
 
-    
+
+.sobre1 {
+    background-color: #faebd75d;
+    color: rgb(255, 255, 255);
+    padding: 50px;
+    /*espaçamento dos retângulos*/
+    width: 200px;
+    /* Largura do retângulo */
+    height: 100px;
+    /* Altura do retângulo */
+    border-radius: 15px;
+    /* Arredonda os cantos em 15 pixels */
+    margin-bottom: 15px;
+    /*margem do retângulo*/
 }
-.boxname{
-    color:#faebd75d ;
+ .sobre2{
+    color: #001e3b;
+    display: inline-block;
+    margin-top: 200px;
+    width: 80%;
+ }
+ .meus_temas{
+    display: inline-block;
+ }
+.projetos1 {
+    background-color: #faebd75d;
+    color: rgb(255, 255, 255);
+    padding: 50px;
+    /*espaçamento dos retângulos*/
+    width: 200px;
+    /* Largura do retângulo */
+    height: 100px;
+    /* Altura do retângulo */
+    border-radius: 15px;
+    /* Arredonda os cantos em 15 pixels */
+    margin-bottom: 15px;
+    /*margem do retângulo*/
+}
+
+.contatos1 {
+    background-color: #faebd75d;
+    color: rgb(255, 255, 255);
+    padding: 50px;
+    /*espaçamento dos retângulos*/
+    width: 200px;
+    /* Largura do retângulo */
+    height: 100px;
+    /* Altura do retângulo */
+    border-radius: 15px;
+    /* Arredonda os cantos em 15 pixels */
+    margin-bottom: 15px;
+    /*margem do retângulo*/
+}
+
+.minha_foto{
+    width: 250px; /* Largura igual à altura */
+    height: 250px; /* Altura igual à largura */
+    background-color: lightblue; /* Cor de fundo */
+    border-radius: 50%; /* Isso cria um círculo */
+    text-align:initial;
+}
+
+.surfista_prata{
+   width: 250px;
+   margin-left: calc(100% - 510px);
+}
+
+
+.Eu {
+    color: #001e3b;
+    text-align: center;
+    font-size: 32px;
+}
+
+.boxname {
+    color: #76956b;;
+}
+
+.box3 {
+    color: #76956b;
+    text-align: center;
+    font-size: 32px;
+}
+
+.doutor{
+    width: 250px;
+    margin-top: -20px; /* Move a imagem 20px para cima */
+    /* margin-left: -30px; Move a imagem 30px para a esquerda */
+    margin-left: calc(100% - 300px);
+    display: inline-block;
+}
+.contatos_num{
+    color: #faebd75d;
+    font-size: 32px;
+}
+.Batman_Img{
+    width: 250px;
+    margin-top: -20px; /* Move a imagem 20px para cima */
+    /* margin-left: -30px; Move a imagem 30px para a esquerda */
+    margin-left: calc(100% - 300px);
+    display: inline-block;
+}
+.num{
+    color: #faebd75d;
+    display: inline-block;
+    font-size: 32px;
 }
